@@ -147,7 +147,7 @@ def main():
         (11, 30),
         (14, 30),
         (17, 30), 
-        (20, 30)   
+        (20, 45)   
     ]
 
     mmt_tz = timezone(timedelta(hours=6, minutes=30))
